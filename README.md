@@ -13,21 +13,21 @@ Entrar no mercado como Front-End Junior
 ### 👨‍💻 Skills
 **Estou estudando:**
 
-<img src="./icons/html5.svg" alt="HTML" heigth="30" width="30"></img>
-<img src="./icons/css3.svg" alt="CSS" height="30" width="30"></img>
-<img src="./icons/javascript.svg" alt="Javascript" height="30" width="30"></img>
-<img src="./icons/git.svg" alt="Git" height="30" width="30"></img>
+<img src="./icons/html5.svg" alt="HTML" heigth="30" width="30" title="HTML"></img>
+<img src="./icons/css3.svg" alt="CSS" height="30" width="30" title="CSS"></img>
+<img src="./icons/javascript.svg" alt="Javascript" height="30" width="30" title="Javascript"></img>
+<img src="./icons/git.svg" alt="Git" height="30" width="30" title="Git"></img>
 
 
 **Tenho interesse:**
 
-<img src="./icons/reactjs.svg" alt="ReactJS" heigth="30" width="30"></img>
-<img src="./icons/nodejs.svg" alt="NodeJS" heigth="30" width="30"></img>
+<img src="./icons/reactjs.svg" alt="ReactJS" heigth="30" width="30" title="ReactJS"></img>
+<img src="./icons/nodejs.svg" alt="NodeJS" heigth="30" width="30" title="NodeJS"></img>
 
 **Tenho experiência:**
 
-<img src="./icons/sql.svg" heigth="30" width="30"></img>
-<img src="./icons/wordpress.svg" heigth="30" width="30"></img>
+<img src="./icons/sql.svg" heigth="30" width="30" title="SQL Server"></img>
+<img src="./icons/wordpress.svg" heigth="30" width="30" title="Wordpress"></img>
 
 ---
 
