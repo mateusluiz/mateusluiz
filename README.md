@@ -36,4 +36,6 @@ Entrar no mercado como Front-End Junior
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Luiz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-luiz/)](https://www.linkedin.com/in/mateus-luiz/) 
 
 
-![Snake animation](https://github.com/mateusluiz/mateusluiz/blob/master/.github/workflows/snake.yml)
+<div>
+  ![Snake animation](https://github.com/mateusluiz/mateusluiz/blob/output/github-contribution-grid-snake.svg)
+</div>
