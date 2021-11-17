@@ -6,30 +6,48 @@
 
 ### 🎯 Meu objetivo para o próximo nível 🎯
 
-Entrar no mercado como Front-End Junior
+Aumentar o conhecimento
 
 ---
 
 ### 👨‍💻 Skills
-**Estou estudando:**
+**Front-End**
 
 <img src="./icons/html5.svg" alt="HTML" heigth="30" width="30" title="HTML"></img>
 <img src="./icons/css3.svg" alt="CSS" height="30" width="30" title="CSS"></img>
 <img src="./icons/javascript.svg" alt="Javascript" height="30" width="30" title="Javascript"></img>
 <img src="./icons/reactjs.svg" alt="ReactJS" heigth="30" width="30" title="ReactJS"></img>
-<img src="./icons/git.svg" alt="Git" height="30" width="30" title="Git"></img>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="VueJS" heigth="40" width="40" title="VueJS"></img>
 
-
-**Tenho interesse:**
+**Back-End**
 
 <img src="./icons/nodejs.svg" alt="NodeJS" heigth="30" width="30" title="NodeJS"></img>
-
-**Tenho experiência:**
-
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" heigth="40" width="40" title="Java"></img>
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" heigth="40" width="40" title="Dart"></img>
+<img src="http://www.dbamaker.com.br/files//course/36e5898eda.png" alt="PLSQL" heigth="40" width="40" title="PLSQL"></img>
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="OracleSQL" heigth="40" width="40" title="OracleSQL"></img>
 <img src="./icons/sql.svg" heigth="30" width="30" title="SQL Server"></img>
+
+**Mobile**
+
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" heigth="40" width="40" title="Flutter"></img>
+
+**Versionamento**
+
+<img src="./icons/git.svg" alt="Git" height="30" width="30" title="Git"></img>
+<img src="https://img.icons8.com/plasticine/100/000000/github.png" alt="Github" heigth="40" width="40" title="Github"></img>
+
+**Outros**
+
 <img src="./icons/wordpress.svg" heigth="30" width="30" title="Wordpress"></img>
 
 ---
+
+<div align="center">
+  <a href="https://github.com/mateusluiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusluiz&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusluiz&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 ##### Meu LinkedIn:
 
