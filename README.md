@@ -49,9 +49,8 @@ Aumentar o conhecimento
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusluiz&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-
+<h3 align="center">Meu Linkedin</h3>
 <div align="center">
-##### Meu LinkedIn:
 
   [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Luiz-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-luiz/)](https://www.linkedin.com/in/mateus-luiz/) 
 </div>
