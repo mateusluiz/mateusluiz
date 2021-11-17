@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, sou o Mateus</h1>
 
-<h4 align="center">Sou estudante de Ciência da Computação e atualmente meu foco é Front-End</h4>
+<h4 align="center">Sou estudante de Ciência da Computação</h4>
 
 ---
 
