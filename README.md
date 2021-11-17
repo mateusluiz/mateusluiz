@@ -51,8 +51,7 @@ Aumentar o conhecimento
 
 ##### Meu LinkedIn:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Luiz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-luiz/)](https://www.linkedin.com/in/mateus-luiz/) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Luiz-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-luiz/)](https://www.linkedin.com/in/mateus-luiz/) 
 
 ![Snake animation](https://github.com/mateusluiz/mateusluiz/blob/output/github-contribution-grid-snake.svg)
 
