@@ -45,32 +45,34 @@ Evoluir continuamente como desenvolvedor, criando soluções robustas, escaláve
 ### Back-End
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" height="30" width="30" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" width="30" title="Java"/>
   <img src="./icons/nodejs.svg" alt="NodeJS" height="30" width="30" title="NodeJS"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" height="30" width="30" title="Dart"/>
-  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" height="30" width="30" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="30" width="30" title="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="30" width="30" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" height="30" width="30" title="Laravel"/>
 </p>
 
 ### Banco de Dados
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" height="30" width="30" title="Oracle"/>
-  <img src="./icons/sql.svg" alt="SQL Server" height="30" width="30" title="SQL Server"/>
-  <img src="http://www.dbamaker.com.br/files//course/36e5898eda.png" alt="PL/SQL" height="30" width="30" title="PL/SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="30" width="30" title="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" height="30" width="30" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="30" width="30" title="SQL"/>
 </p>
 
 ### Mobile
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" height="30" width="30" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="30" width="30" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="30" width="30" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" height="30" width="30" title="Swift"/>
 </p>
 
 ### Versionamento
 
 <p>
   <img src="./icons/git.svg" alt="Git" height="30" width="30" title="Git"/>
-  <img src="https://img.icons8.com/plasticine/100/000000/github.png" alt="GitHub" height="30" width="30" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" title="GitHub"/>
 </p>
 
 ### Outros
@@ -85,8 +87,8 @@ Evoluir continuamente como desenvolvedor, criando soluções robustas, escaláve
 
 <div align="center">
   <a href="https://github.com/mateusluiz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusluiz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusluiz&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusluiz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusluiz&layout=compact&langs_count=8&theme=github_dark&cache_seconds=86400"/>
   </a>
 </div>
 
@@ -102,4 +104,10 @@ Evoluir continuamente como desenvolvedor, criando soluções robustas, escaláve
 
 ---
 
-![Snake animation](https://github.com/mateusluiz/mateusluiz/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusluiz/mateusluiz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusluiz/mateusluiz/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mateusluiz/mateusluiz/output/github-contribution-grid-snake.svg">
+</picture>
