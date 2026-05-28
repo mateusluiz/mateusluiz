@@ -83,13 +83,12 @@ Evoluir continuamente como desenvolvedor, criando soluções robustas, escaláve
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-<div align="center">
-  <a href="https://github.com/mateusluiz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusluiz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusluiz&layout=compact&langs_count=8&theme=github_dark&cache_seconds=86400"/>
-  </a>
+<div align="center"> 
+  
+![Mateus GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mateusluiz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusluiz&layout=compact&theme=github_dark&hide_border=true&langs_count=8) 
+
 </div>
 
 ---
